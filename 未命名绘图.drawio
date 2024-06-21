@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T06:06:24.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.3.0" etag="arZIVFKPFz9yn2fg3PR6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T06:46:14.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0sqHTjqCWcwc95B5i9hr" version="24.3.0" type="github">
   <diagram name="第 1 页" id="feDTDTRWJAPfPPH7bGJ7">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="110" width="440" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="110" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="170" width="420" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-4" value="同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="820" y="115" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="851" y="115" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-6" value="保存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="580" y="115" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-7" value="取消" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="650" y="115" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-10" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="857" y="123.5" width="10" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-13" value="ERMS覆盖当前配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860.5" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-26" value="同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="391" y="130" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-28" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="397" y="138.5" width="10" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-29" value="ERMS覆盖当前配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400.5" y="135" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-30" value="同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="391" y="170" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-32" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="397" y="178.5" width="10" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-33" value="ERMS合并当前配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400.5" y="175" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-34" value="同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="391" y="210" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-36" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="397" y="218.5" width="10" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-37" value="最新历史配置覆盖当前" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395.5" y="215" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-38" value="同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="391" y="250" width="149" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-40" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="397" y="258.5" width="10" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QeyQicBC2HroPgbkJKeZ-41" value="最新历史配置合并当前" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395.5" y="255" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
