@@ -10,7 +10,7 @@
         <mxCell id="kaHUVRl_LLqGkyTW9aTp-2" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;数据编辑&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#666666;horizontal=1;textDirection=vertical-lr;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="210" y="130" width="50" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="kaHUVRl_LLqGkyTW9aTp-3" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;用例发布&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#666666;horizontal=1;textDirection=vertical-lr;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-3" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;用例发布导入&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#666666;horizontal=1;textDirection=vertical-lr;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="210" y="570" width="50" height="220" as="geometry" />
         </mxCell>
         <mxCell id="aJzNuYuJcPRWzjmUSJ6a-13" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;" parent="1" vertex="1">
@@ -216,6 +216,123 @@
         <mxCell id="kaHUVRl_LLqGkyTW9aTp-85" value="&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 7px; font-weight: 700; white-space: pre;&quot;&gt;handleRowDrop&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-60">
           <mxGeometry x="438" width="62" height="30" as="geometry">
             <mxRectangle width="62" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-92" value="&lt;span style=&quot;font-size: 21px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;自动导入&lt;/b&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="650" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-93" value="&lt;span style=&quot;font-size: 21px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;检索导入&lt;/b&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="730" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-94" value="&lt;span style=&quot;font-size: 21px; text-wrap: nowrap;&quot;&gt;&lt;b&gt;用例发布&lt;/b&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="570" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-117" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="570" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-118" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-117">
+          <mxGeometry width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-119" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;参数&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;(action&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;无需复制)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-118">
+          <mxGeometry width="83" height="60" as="geometry">
+            <mxRectangle width="83" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-120" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div&gt;断言&lt;/div&gt;&lt;div&gt;&lt;div&gt;(action&lt;/div&gt;&lt;div&gt;无需复制)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-118">
+          <mxGeometry x="83" width="84" height="60" as="geometry">
+            <mxRectangle width="84" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-121" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;依赖&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div&gt;(action&lt;/div&gt;&lt;div&gt;依赖stageId&lt;/div&gt;&lt;div&gt;需要复制)&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-118">
+          <mxGeometry x="167" width="83" height="60" as="geometry">
+            <mxRectangle width="83" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-122" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;资源&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;(绑定stageId&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;需要复制&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-118">
+          <mxGeometry x="250" width="83" height="60" as="geometry">
+            <mxRectangle width="83" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-123" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;策略&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div&gt;(绑定stageId&lt;/div&gt;&lt;div&gt;需要复制&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-118">
+          <mxGeometry x="333" width="84" height="60" as="geometry">
+            <mxRectangle width="84" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-124" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;数据驱动&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div&gt;(绑定stageId&lt;/div&gt;&lt;div&gt;需要复制&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-118">
+          <mxGeometry x="417" width="83" height="60" as="geometry">
+            <mxRectangle width="83" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-125" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="650" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-126" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-125">
+          <mxGeometry width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-127" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;参数&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;(action&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;无需复制)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-126">
+          <mxGeometry width="83" height="60" as="geometry">
+            <mxRectangle width="83" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-128" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div&gt;断言&lt;/div&gt;&lt;div&gt;&lt;div&gt;(action&lt;/div&gt;&lt;div&gt;无需复制)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-126">
+          <mxGeometry x="83" width="84" height="60" as="geometry">
+            <mxRectangle width="84" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-129" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;依赖&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div&gt;(action&lt;/div&gt;&lt;div&gt;依赖stageId&lt;/div&gt;&lt;div&gt;需要复制)&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-126">
+          <mxGeometry x="167" width="83" height="60" as="geometry">
+            <mxRectangle width="83" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-130" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;资源&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;(绑定stageId&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;需要复制&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-126">
+          <mxGeometry x="250" width="83" height="60" as="geometry">
+            <mxRectangle width="83" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-131" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;策略&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div&gt;(绑定stageId&lt;/div&gt;&lt;div&gt;需要复制&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-126">
+          <mxGeometry x="333" width="84" height="60" as="geometry">
+            <mxRectangle width="84" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-132" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;数据驱动&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div&gt;(绑定stageId&lt;/div&gt;&lt;div&gt;需要复制&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-126">
+          <mxGeometry x="417" width="83" height="60" as="geometry">
+            <mxRectangle width="83" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-133" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="730" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-134" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-133">
+          <mxGeometry width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-135" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;参数&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;(action&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;无需复制)&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-134">
+          <mxGeometry width="83" height="60" as="geometry">
+            <mxRectangle width="83" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-136" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div&gt;断言&lt;/div&gt;&lt;div&gt;&lt;div&gt;(action&lt;/div&gt;&lt;div&gt;无需复制)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-134">
+          <mxGeometry x="83" width="84" height="60" as="geometry">
+            <mxRectangle width="84" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-137" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;依赖&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div&gt;(action&lt;/div&gt;&lt;div&gt;依赖stageId&lt;/div&gt;&lt;div&gt;需要复制)&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-134">
+          <mxGeometry x="167" width="83" height="60" as="geometry">
+            <mxRectangle width="83" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-138" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;资源&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;(绑定stageId&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;需要复制&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-134">
+          <mxGeometry x="250" width="83" height="60" as="geometry">
+            <mxRectangle width="83" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-139" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;策略&lt;/div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div&gt;(绑定stageId&lt;/div&gt;&lt;div&gt;需要复制&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-134">
+          <mxGeometry x="333" width="84" height="60" as="geometry">
+            <mxRectangle width="84" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kaHUVRl_LLqGkyTW9aTp-140" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;数据驱动&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;div&gt;(绑定stageId&lt;/div&gt;&lt;div&gt;需要复制&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="kaHUVRl_LLqGkyTW9aTp-134">
+          <mxGeometry x="417" width="83" height="60" as="geometry">
+            <mxRectangle width="83" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
